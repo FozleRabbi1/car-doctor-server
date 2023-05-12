@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "image": "https://i.ibb.co/TqzvVSj/1.jpg",
+        "heading": "Oil Change",
+        "description": "Regular oil changes keep your car running smoothly and improve its lifespan. We offer fast and affordable oil change services for all makes and models."
+     },
+     
+     {
+        "id": "2",
+        "image": "https://i.ibb.co/Vg1r8rJ/2.jpg",
+        "heading": "Brake Service",
+        "description": "Don't take chances with your brakes. Our expert technicians provide comprehensive brake services to ensure your car can stop safely and reliably."
+     },
+     
+     {
+        "id": "3",
+        "image": "https://i.ibb.co/WNCXF49/3.jpg",
+        "heading": "Tire Rotation",
+        "description": "Uneven tire wear can cause handling issues and decrease fuel efficiency. Let us rotate your tires to promote even wear and prolong their lifespan."
+     },
+     
+     {
+        "id": "4",
+        "image": "https://i.ibb.co/NLw1yxb/4.jpg",
+        "heading": "Wheel Alignment",
+        "description": "Poor wheel alignment can cause uneven tire wear, decreased fuel efficiency, and even unsafe handling. Our technicians use state-of-the-art equipment to align your wheels and ensure optimal performance."
+     },
+     
+     {
+        "id": "5",
+        "image": "https://i.ibb.co/6JSXwHb/5.jpg",
+        "heading": "Engine Diagnostics",
+        "description": "Modern cars are complex machines that require advanced diagnostic tools to identify problems. Our skilled technicians use the latest technology to diagnose and repair issues quickly and efficiently."
+     },
+     
+     {
+        "id": "6",
+        "image": "https://i.ibb.co/smz5m2h/6.jpg",
+        "heading": "Transmission Service",
+        "description": "Transmission problems can be costly and time-consuming to repair. Trust our experts to provide comprehensive transmission services, including fluid changes and repairs, to keep your car running smoothly."
+     }
+     
+]
